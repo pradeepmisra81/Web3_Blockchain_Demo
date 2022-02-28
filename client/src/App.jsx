@@ -12,7 +12,7 @@ const App = () => {
       </head>
             <body>
               <h1 class="text-3xl font-bold underline">
-                Hello world!
+                Web 3.0 Blockchain Demo!
               </h1>
             </body>
           </div>
