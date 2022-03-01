@@ -1,22 +1,19 @@
-import { useState } from 'react'
+import { Navbar, Welcome, Loader, Footer, Services, Transactions,  } from "./components";
 
 const App = () => {
-  const [count, setCount] = useState(0)
-
   return (
-    <div className="App">
-      <head>
-        <meta charset="UTF-8"/>
-          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-            <link href="/dist/main.css" rel="stylesheet"/>
-      </head>
-            <body>
-              <h1 class="text-3xl font-bold underline">
-                Web 3.0 Blockchain Demo!
-              </h1>
-            </body>
-          </div>
-          );
+    <div className="min-h-screen">
+      <div className="gradient-bg-welcome">
+        <Navbar/>
+        <Welcome/>
+      </div>
+      <div>
+        <Services/>
+        <Transactions/>
+        <Footer/>
+      </div>
+    </div>
+    );
 }
 
-          export default App;
+export default App;
