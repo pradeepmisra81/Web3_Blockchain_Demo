@@ -2,18 +2,18 @@
 
 1. Web3
 
-2. dApps
+2. Blockchain overview 
 
-3. Client(Frontend/JavaScript/ReactJS)
+3. dApps 
 
-4. Smart Contracts
+4. Client(Frontend/JavaScript/ReactJS) 
 
-5. Blockchain overview
+5. Smart Contracts
 
-6. DAOs
+6. Solidity , Truffle & Ganache 
 
-7. Solidity , Truffle & Ganache
+7. Solidity example code
 
-8. Solidity example code
+8. DAOs
 
 */
