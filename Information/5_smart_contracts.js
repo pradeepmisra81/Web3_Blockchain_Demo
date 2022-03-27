@@ -30,6 +30,10 @@ Ganache:
 
 
 
+
+
+
+
 Dapps can be decentralized because they are controlled by the logic written into the 
 contract, not an individual or company. This also means you need to design your contracts 
 very carefully and test them thoroughly.

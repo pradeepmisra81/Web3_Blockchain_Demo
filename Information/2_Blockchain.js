@@ -6,9 +6,38 @@ Blockchain technology is a structure that stores transactional records, also kno
 block, of the public in several databases, known as the “chain,” in a network connected 
 through peer-to-peer nodes. Typically, this storage is referred to as a ‘digital ledger.’
 
-Examples of few Blockchain networs:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Examples of few Blockchain networks:
 1. Bitcoin Blockchain Network
-2. Etherem Blockchain Network
+2. Ethereum Blockchain Network
 
 
 

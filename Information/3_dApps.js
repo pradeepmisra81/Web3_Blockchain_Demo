@@ -27,6 +27,12 @@ combines a smart contract and a frontend user interface.
 
 
 
+
+
+
+
+
+
 On Ethereum, smart contracts are 
 accessible and transparent – like open APIs – so your dapp can even include a smart contract 
 that someone else has written.
